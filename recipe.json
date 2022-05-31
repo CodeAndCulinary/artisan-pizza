@@ -1,8 +1,9 @@
 {
-    "tags": "Neapolitan Artisan pizza recipe",
+    "tags": "In Depth Neapolitan Artisan Pizza Recipe - CodeAndCulinary",
+    "description": "An in depth neapolitan style artisan pizza recipe tweaked over a hundred times to help you achieve authentic delicious perfection. A version controlled recipe!",
     "content": [
         {"type": "header",
-            "content": "Neapolitan Artisan Pizza"
+            "content": "In Depth Neapolitan Artisan Pizza Recipe"
         },
         {"type": "text",
             "content": "The most important ingredient in a pizza is by far the dough. It simply is the difference between restaurant grade and a doughy mess. After doing pizza for roughly a hundred times with different methods and small variations I have come to the conclusion that one simple trick makes a world of difference - cold fermentation."
