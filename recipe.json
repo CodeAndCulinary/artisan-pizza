@@ -8,7 +8,7 @@
             "content": "The most important ingredient in a pizza is by far the dough. It simply is the difference between restaurant grade and a doughy mess. After doing pizza for roughly a hundred times with different methods and small variations I have come to the conclusion that one simple trick makes a world of difference - cold fermentation."
         },
         {"type": "Image",
-            "content": "/images/pizza.jpg"
+            "content": "/resources/pizza.jpg"
         },
         {"type": "List",
             "title": "Ingredients",
@@ -22,7 +22,7 @@
             "content": "Dough texture demonstration:"
         },
         {"type": "webm",
-            "content": "/images/pizza_dough.webm"
+            "content": "/resources/pizza_dough.webm"
         },
         {"type": "Subheader",
             "content": "Tomato sauce"
