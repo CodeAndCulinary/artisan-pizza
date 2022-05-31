@@ -7,6 +7,9 @@
         {"type": "Text",
             "content": "The most important ingredient in a pizza is by far the dough. It simply is the difference between restaurant grade and a doughy mess. After doing pizza for roughly a hundred times with different methods and small variations I have come to the conclusion that one simple trick makes a world of difference - cold fermentation."
         },
+        {"type": "Image",
+            "content": "/images/pizza.jpg"
+        },
         {"type": "List",
             "title": "Ingredients",
             "content": ["350ml warm water (roughly enough for 3x 280 gram balls)",
@@ -56,9 +59,6 @@
         },
         {"type": "Text",
             "content": "Take the dough to warm up at least 4 hours before and 6 hours if frozen. Find a pizza stretching technique that suites you (youtube has plenty of videos) and form the base. Remember that this is a no-knead dough so be extra careful with it. Try not to squash the bubbles. Use semola to keep the dough from sticking to everything. Less is better. Add tomato, parmesan and mozzarella in this order. Add toppings. Put the pizza in the oven. For a home oven use the grill setting with confection and have it set as hot as possible (I make mine in 300°C). Warm the pizza stone up for at least half an hour and have it placed as high as possible in the oven. Alternatively you can use a dedicated pizza oven which may heat up to 500°C. Every oven is different so you will need to learn how each one functions. Some may heat unevenly and you need to rotate the pizza around once or twice. Some ovens yield a better result a little lower down. That's for you to find out. The end result will hopefully be a restaurant level Neapolitan style artisan pizza."
-        },
-        {"type": "Image",
-            "content": "/images/pizza.jpg"
         }
     ]
 }
