@@ -12,7 +12,9 @@
                 },
                 {"type": "image",
                     "content": "/resources/pizza.jpg",
-                    "alt": "Neapolitan artisan pizza"
+                    "alt": "Neapolitan artisan pizza",
+                    "height": 2748,
+                    "width": 2268
                 },
                 {"type": "list",
                     "title": "Ingredients",
