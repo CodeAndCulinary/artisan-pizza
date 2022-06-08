@@ -28,7 +28,8 @@
                     "content": "Dough texture demonstration:"
                 },
                 {"type": "webm",
-                    "content": "/resources/pizza_dough.webp"
+                    "content": "/resources/pizza_dough.webp",
+                    "alt": "Artisan pizza dough pre-cold fermentation texture"
                 }
             ]},
         {
